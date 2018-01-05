@@ -1,0 +1,24 @@
+{
+  "name": "kaihub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sphoebs/kaihub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sphoebs/kaihub/issues"
+  },
+  "homepage": "https://github.com/sphoebs/kaihub#readme",
+  "dependencies": {
+    "csvtojson": "^1.1.9",
+    "ml-regression": "^4.4.2",
+    "probability-distributions": "^0.9.1"
+  }
+}
